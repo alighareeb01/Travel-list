@@ -34,6 +34,6 @@ Add your screenshots here.
 Example:
 
 ```md
-![Home Screen](./screenshots/home.png)
+![Home Screen](screenshots/home.png)
 ```
 "# Travel-list" 
