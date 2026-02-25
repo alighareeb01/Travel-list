@@ -33,7 +33,6 @@ Add your screenshots here.
 
 Example:
 
-```md
-![Home Screen](screenshots/home.png)
+![Home Page](./screenshots/home.png)
 ```
 "# Travel-list" 
